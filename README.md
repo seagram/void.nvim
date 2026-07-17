@@ -1,4 +1,4 @@
-# void.nvim
+# `void.nvim`
 
 A transparent, mostly-monochrome colourscheme (everything except for tree-sitter keyword and type captures). Requires nvim v0.13 or newer.
 
